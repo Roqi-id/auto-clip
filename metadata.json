@@ -1,0 +1,6 @@
+{
+  "name": "YouTube AI AutoClip & Social Publisher",
+  "description": "Sistem otomatisasi klip video YouTube bertenaga AI Gemini Pro dengan publisher otomatis ke media sosial dan arsitektur keamanan tinggi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
